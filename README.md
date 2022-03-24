@@ -1,15 +1,15 @@
 # TC1001S.100
 Herramientas computacionales: el arte de la programación (Gpo 100)
 
-Nombre
-:Aarón Castillo Cervantes 
+Nombre :
+Aarón Castillo Cervantes 
   
   
-Carrera
-:ITD
+Carrera:
+ITD
   
   
-Semestre
-:6to 
+Semestre:
+6to 
   
   
